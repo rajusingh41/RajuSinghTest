@@ -1,0 +1,36 @@
+{
+  "medicines": [
+    {
+      "FullName": "fdsa",
+      "BrandName": "dfsa",
+      "Price": 10.23,
+      "Quantity": 5,
+      "Expriry": "2019-11-20T17:41:28.492Z",
+      "Notes": "sdsa"
+    },
+    {
+      "FullName": "fdsa",
+      "BrandName": "dfsa",
+      "Price": 10.23,
+      "Quantity": 5,
+      "Expriry": "2019-11-20T17:41:28.492Z",
+      "Notes": "sdsa"
+    },
+    {
+      "FullName": "fdsa",
+      "BrandName": "dfsa",
+      "Price": 10.23,
+      "Quantity": 5,
+      "Expriry": "2019-11-20T17:41:28.492Z",
+      "Notes": "sdsa"
+    },
+    {
+      "FullName": "fdsa",
+      "BrandName": "dfsa",
+      "Price": 10.23,
+      "Quantity": 5,
+      "Expriry": "2019-11-20T17:41:28.492Z",
+      "Notes": "sdsa"
+    }
+  ]
+}
